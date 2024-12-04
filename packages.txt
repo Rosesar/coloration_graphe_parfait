@@ -1,2 +1,7 @@
 graphviz
 graphviz-dev
+streamlit
+pandas
+networkx
+numpy
+matplotlib
